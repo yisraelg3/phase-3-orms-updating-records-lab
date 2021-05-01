@@ -1,8 +1,8 @@
-# ORM Update Lab
+# Updating Records Lab
 
-## Objectives
+## Learning Goals
 
-1. Build an `#update` method that updates an existing record. 
+- Build an `#update` method that updates an existing record. 
 
 ## Instructions
 
